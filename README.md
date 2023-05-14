@@ -1,4 +1,5 @@
 ## Monocular Depth Estimation
+read cs484_final.pdf for more details and full report
 
 By: Vaibhav Valecha (vvalecha@uwaterloo.ca) and Huck Kim (h363kim@uwaterloo.ca)
 
