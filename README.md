@@ -1,5 +1,4 @@
 ## Monocular Depth Estimation
-read cs484_final.pdf for more details and full report
 
 By: Vaibhav Valecha (vvalecha@uwaterloo.ca) and Huck Kim (h363kim@uwaterloo.ca)
 
@@ -34,3 +33,7 @@ datasets.
 Note image 1 used overfit model whereas image2 was trained on various images
 ![plot](./photos/image1.png)
 ![plot](./photos/image2.png)
+
+## Extension
+
+read cs484_final.pdf for more details and full report
